@@ -34,10 +34,5 @@ def main():
         print("You FAILED you driver's license exam.")
 
 
-
-
-
-
-
 if __name__ == '__main__':
     main()
